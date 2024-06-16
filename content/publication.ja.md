@@ -1,0 +1,53 @@
++++
+title = 'Publication'
+date = 2024-06-16T14:39:32+09:00
+draft = true
++++
+
+# 業績・成果リスト
+
+## 論文誌
+1. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “A Formulation of the Trilemma in Proof of Work Blockchain”, IEEE Access, 2024
+
+## 研究発表（国際，査読有り）
+
+### Proceedings
+
+1. Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2024, 2024.1
+2. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12 (投稿 110 件中 35 件採択)
+
+## 研究発表（国際，査読なし）
+
+1. Taishi Nakai, “Towards Mathematical Formulation of the Blockchain Trilemma”, BCK2023，2023.1
+2. Taishi Nakai, “The Blockchain Trilemma Described by a formula”, トリレンマを提唱した Ethereum 創設者 Vitalik Buterin を含む Ethereum 財団のメンバーに対して，2023.8
+
+## 研究発表（国内，査読なし）
+
+1. 増田真之介，長谷川毅，中井大志，櫻井晶，首藤一幸，「Compact Block Relay における高帯域ノード選択方式」，電子情報通信学会 IA 研究会，2024.3
+2. 中井大志，櫻井晶，首藤一幸，「二重支払い攻撃の経済的合理性」，電子情報通信学会 IA 研究会，2024.3
+3. 中井大志，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的定式化」，電子情報通信学会 SCIS2024，2024.1
+4. 中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2023.9
+
+## 招待講演
+
+1. 中井大志，「ブロックチェーントリレンマの数理的記述」第 3 回なめら会議，2024.1
+
+## ポスター発表（査読なし）
+
+1. 中井大志，「ブロックチェーントリレンマの数理的記述」第 18 回 ICT イノベーション，2024.2
+
+## 研究関連の受賞
+
+1. インターネットアーキテクチャ研究賞 優秀研究賞，中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2024.5（2023 年度の発表 100 件中 4 件採択）
+2. 第 18 回 ICT イノベーション優秀研究賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学 ICT 連携推進ネットワーク，2024.2（発表 55 件中 8 件採択）
+3. 優秀修士論文賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学情報学研究科社会情報学専攻，2024.2
+
+## その他の受賞と実績
+
+1. PSE Summer Contribution Program（Ethereum 財団がアジアで開催するブロックチェーン暗号学勉強会．選抜制 166 人中 58 人）2023.7-2023.8
+2. double jump.tokyo Inc. での長期インターン テクニカルサポート，2022.11-2023.4
+3. チームラボサマーインターン スマホアプリエンジニア 参加，Flutter を使った実務，2022.9
+4. GMO グループサマーインターン ブロックチェーン研究開発職 参加，NFT Fi の作成と発表，2022.8
+5. Tokyo web3 Hackathon ブロックチェーンゲーム部門 3 位 10 万円，2022.11
+6. 技育展 チーム開発部門 ふろちゃでぼっと（ノーコードで LINE Bot が作れるサービス）最優秀賞 20 万円，2022.9
+7. JPYC 日本円アイデアソン コミュニティ賞及び JPYC 日本円ハッカソン セカンドグラント受賞 10 万円，2022.4

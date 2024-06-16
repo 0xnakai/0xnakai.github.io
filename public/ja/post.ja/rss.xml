@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="ja"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/ja/post.ja/atom.xml" rel="self" type="application/atom+xml"/>
+            
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/ja/post.ja/" rel="alternate" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/ja/post.ja/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>最近のコンテンツ</description>
+
+        
+            <language>ja</language>
+        
+
+        
+            <lastBuildDate>2024-06-16 19:37:04 +0900 JST</lastBuildDate>
+        
+
+        <link>http://localhost:1313/ja/post.ja/</link>
+
+        
+
+        <title>Post.Jas · </title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+                    
+                
+
+                
+                
+
+                
+
+                
+
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-06-16:/ja/post.ja/hoge/</guid>
+
+                
+                    <link>http://localhost:1313/ja/post.ja/hoge/</link>
+                
+
+                
+                    <pubDate>Sun, 16 Jun 2024 19:37:04 JST</pubDate>
+                
+
+                
+                    <title>Hoge</title>
+                
+            </item>
+        
+    </channel>
+</rss>

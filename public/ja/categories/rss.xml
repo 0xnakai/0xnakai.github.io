@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="ja"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/ja/categories/atom.xml" rel="self" type="application/atom+xml"/>
+            
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/ja/categories/" rel="alternate" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/ja/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+            
+                
+                    <link href="http://localhost:1313/categories/atom.xml" hreflang="en" rel="alternate" type="application/atom+xml"/>
+                
+            
+                
+            
+                
+                    <link href="http://localhost:1313/categories/rss.xml" hreflang="en" rel="alternate" type="application/rss+xml"/>
+                
+            
+        
+
+        
+
+        <description>最近のコンテンツ</description>
+
+        
+            <language>ja</language>
+        
+
+        
+
+        <link>http://localhost:1313/ja/categories/</link>
+
+        
+
+        <title>Categories · </title>
+
+        
+
+        
+    </channel>
+</rss>

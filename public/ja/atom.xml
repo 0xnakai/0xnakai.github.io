@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="ja"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+        <icon>http://localhost:1313/ja/</icon>
+    
+
+    <id>tag:localhost:1313,0001-01-01:/ja/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/ja/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/ja/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="http://localhost:1313/ja/paige-search.json" rel="alternate" type="application/json"/>
+        
+    
+        
+
+        
+
+        
+            <link href="http://localhost:1313/ja/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+        
+            
+                <link href="http://localhost:1313/atom.xml" hreflang="en" rel="alternate" type="application/atom+xml"/>
+            
+        
+            
+        
+            
+                <link href="http://localhost:1313/paige-search.json" hreflang="en" rel="alternate" type="application/json"/>
+            
+        
+            
+                <link href="http://localhost:1313/rss.xml" hreflang="en" rel="alternate" type="application/rss+xml"/>
+            
+        
+    
+
+    
+        <logo>http://localhost:1313/ja/</logo>
+    
+
+    
+
+    
+
+    <title type="html"><![CDATA[]]></title>
+    <updated>2024-06-16T19:37:04+09:00</updated>
+
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <id>tag:localhost:1313,2024-06-16:/ja/post/hoge/</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="http://localhost:1313/ja/post/hoge/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+                
+                    
+                
+            
+
+            
+                <published>2024-06-16T19:37:04+09:00</published>
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Hoge]]></title>
+            <updated>2024-06-16T19:37:04+09:00</updated>
+        </entry>
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<h1 id="業績成果リスト">業績・成果リスト</h1>
+<h2 id="論文誌">論文誌</h2>
+<ol>
+<li>Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “A Formulation of the Trilemma in Proof of Work Blockchain”, IEEE Access, 2024</li>
+</ol>
+<h2 id="研究発表国際査読有り">研究発表（国際，査読有り）</h2>
+<h3 id="proceedings">Proceedings</h3>
+<ol>
+<li>Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2024, 2024.1</li>
+<li>Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12 (投稿 110 件中 35 件採択)</li>
+</ol>
+<h2 id="研究発表国際査読なし">研究発表（国際，査読なし）</h2>
+<ol>
+<li>Taishi Nakai, “Towards Mathematical Formulation of the Blockchain Trilemma”, BCK2023，2023.1</li>
+<li>Taishi Nakai, “The Blockchain Trilemma Described by a formula”, トリレンマを提唱した Ethereum 創設者 Vitalik Buterin を含む Ethereum 財団のメンバーに対して，2023.8</li>
+</ol>
+<h2 id="研究発表国内査読なし">研究発表（国内，査読なし）</h2>
+<ol>
+<li>増田真之介，長谷川毅，中井大志，櫻井晶，首藤一幸，「Compact Block Relay における高帯域ノード選択方式」，電子情報通信学会 IA 研究会，2024.3</li>
+<li>中井大志，櫻井晶，首藤一幸，「二重支払い攻撃の経済的合理性」，電子情報通信学会 IA 研究会，2024.3</li>
+<li>中井大志，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的定式化」，電子情報通信学会 SCIS2024，2024.1</li>
+<li>中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2023.9</li>
+</ol>
+<h2 id="招待講演">招待講演</h2>
+<ol>
+<li>中井大志，「ブロックチェーントリレンマの数理的記述」第 3 回なめら会議，2024.1</li>
+</ol>
+<h2 id="ポスター発表査読なし">ポスター発表（査読なし）</h2>
+<ol>
+<li>中井大志，「ブロックチェーントリレンマの数理的記述」第 18 回 ICT イノベーション，2024.2</li>
+</ol>
+<h2 id="研究関連の受賞">研究関連の受賞</h2>
+<ol>
+<li>インターネットアーキテクチャ研究賞 優秀研究賞，中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2024.5（2023 年度の発表 100 件中 4 件採択）</li>
+<li>第 18 回 ICT イノベーション優秀研究賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学 ICT 連携推進ネットワーク，2024.2（発表 55 件中 8 件採択）</li>
+<li>優秀修士論文賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学情報学研究科社会情報学専攻，2024.2</li>
+</ol>
+<h2 id="その他の受賞と実績">その他の受賞と実績</h2>
+<ol>
+<li>PSE Summer Contribution Program（Ethereum 財団がアジアで開催するブロックチェーン暗号学勉強会．選抜制 166 人中 58 人）2023.7-2023.8</li>
+<li>double jump.tokyo Inc. での長期インターン テクニカルサポート，2022.11-2023.4</li>
+<li>チームラボサマーインターン スマホアプリエンジニア 参加，Flutter を使った実務，2022.9</li>
+<li>GMO グループサマーインターン ブロックチェーン研究開発職 参加，NFT Fi の作成と発表，2022.8</li>
+<li>Tokyo web3 Hackathon ブロックチェーンゲーム部門 3 位 10 万円，2022.11</li>
+<li>技育展 チーム開発部門 ふろちゃでぼっと（ノーコードで LINE Bot が作れるサービス）最優秀賞 20 万円，2022.9</li>
+<li>JPYC 日本円アイデアソン コミュニティ賞及び JPYC 日本円ハッカソン セカンドグラント受賞 10 万円，2022.4</li>
+</ol>
+]]></content>
+            
+
+            <id>tag:localhost:1313,2024-06-16:/ja/publication/</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="http://localhost:1313/ja/publication/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+                
+                    
+                
+            
+
+            
+                <published>2024-06-16T14:39:32+09:00</published>
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Publication]]></title>
+            <updated>2024-06-16T14:39:32+09:00</updated>
+        </entry>
+    
+</feed>
