@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+        <icon>https://0xnakai.github.io/</icon>
+    
+
+    <id>tag:0xnakai.github.io,0001-01-01:/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://0xnakai.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://0xnakai.github.io/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://0xnakai.github.io/paige-search.json" rel="alternate" type="application/json"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://0xnakai.github.io/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+        
+            
+                <link href="https://0xnakai.github.io/ja/atom.xml" hreflang="ja" rel="alternate" type="application/atom+xml"/>
+            
+        
+            
+        
+            
+                <link href="https://0xnakai.github.io/ja/paige-search.json" hreflang="ja" rel="alternate" type="application/json"/>
+            
+        
+            
+                <link href="https://0xnakai.github.io/ja/rss.xml" hreflang="ja" rel="alternate" type="application/rss+xml"/>
+            
+        
+    
+
+    
+        <logo>https://0xnakai.github.io/</logo>
+    
+
+    
+
+    
+
+    <title type="html"><![CDATA[]]></title>
+    <updated>2024-06-16T14:39:32+09:00</updated>
+
+    
+</feed>

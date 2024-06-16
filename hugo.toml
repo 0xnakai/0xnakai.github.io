@@ -1,5 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://0xnakai.github.io/'
 languageCode = 'en-us'
+
+publishDir = "docs"
 
 
 enablerobotstxt = true
