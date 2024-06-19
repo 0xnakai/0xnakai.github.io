@@ -31,21 +31,11 @@
     
 
     
-        <icon>http://localhost:1313/ja/</icon>
+        <icon>https://0xnakai.github.io/ja/</icon>
     
 
-    <id>tag:localhost:1313,0001-01-01:/ja/categories/atom.xml</id>
+    <id>tag:0xnakai.github.io,0001-01-01:/ja/categories/atom.xml</id>
 
-    
-        
-
-        
-            
-        
-
-        
-            <link href="http://localhost:1313/ja/categories/atom.xml" rel="self" type="application/atom+xml"/>
-        
     
         
 
@@ -54,7 +44,17 @@
         
 
         
-            <link href="http://localhost:1313/ja/categories/" rel="alternate" type="text/html"/>
+            <link href="https://0xnakai.github.io/ja/categories/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://0xnakai.github.io/ja/categories/" rel="alternate" type="text/html"/>
         
     
         
@@ -62,26 +62,26 @@
         
 
         
-            <link href="http://localhost:1313/ja/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://0xnakai.github.io/ja/categories/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
     
         
             
-                <link href="http://localhost:1313/categories/atom.xml" hreflang="en" rel="alternate" type="application/atom+xml"/>
+                <link href="https://0xnakai.github.io/categories/atom.xml" hreflang="en" rel="alternate" type="application/atom+xml"/>
             
         
             
         
             
-                <link href="http://localhost:1313/categories/rss.xml" hreflang="en" rel="alternate" type="application/rss+xml"/>
+                <link href="https://0xnakai.github.io/categories/rss.xml" hreflang="en" rel="alternate" type="application/rss+xml"/>
             
         
     
 
     
-        <logo>http://localhost:1313/ja/</logo>
+        <logo>https://0xnakai.github.io/ja/</logo>
     
 
     

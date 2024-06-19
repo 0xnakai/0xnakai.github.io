@@ -2,80 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://0xnakai.github.io/</loc>
     <lastmod>2024-06-16T14:39:32+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="https://0xnakai.github.io/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://0xnakai.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-06-16T14:39:32+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/publication/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/post/hoge/</loc>
+    <loc>https://0xnakai.github.io/post/</loc>
     <lastmod>2024-06-16T09:56:54+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/post/hoge/"
+                href="https://0xnakai.github.io/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/hoge/"
+                href="https://0xnakai.github.io/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-06-16T09:56:54+09:00</lastmod>
+    <loc>https://0xnakai.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/post/"
+                href="https://0xnakai.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://0xnakai.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://0xnakai.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://0xnakai.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://0xnakai.github.io/tags/"
                 />
   </url>
 </urlset>

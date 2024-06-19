@@ -14,25 +14,29 @@ draft = true
 ### Proceedings
 
 1. Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2024, 2024.1
-2. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12 (投稿 110 件中 35 件採択)
+2. Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12 (Out of 110 submissions, 35 were accepted.)
    <br><br>
 
 ## International conference(no-refereed)
 
 1. Taishi Nakai, “Towards Mathematical Formulation of the Blockchain Trilemma”, BCK2023，2023.1
 2. Taishi Nakai, “The Blockchain Trilemma Described by a formula”, To the members of the Ethereum Foundation, including Vitalik Buterin, the founder of Ethereum who proposed the trilemma，2023.8
+   <br><br>
 
 ## Conference in Japan(no-refereed)
 
 <a href="/ja/publication/">See in the Japanese version.</a>
+<br><br>
 
 ## Invited talk in Japan
 
 <a href="/ja/publication/">See in the Japanese version.</a>
+<br><br>
 
 ## Poster presentation in Japan
 
 <a href="/ja/publication/">See in the Japanese version.</a>
+<br><br>
 
 ## Awards and Honors
 
@@ -41,6 +45,7 @@ draft = true
 2. 18th ICT Innovation Excellent Research Award, Taishi Nakai, “Blockchain Trilemma Described by a Formula”, Kyoto University ICT Collaboration Promotion Network, 2024.2
    - 8 out of 55 presentations
 3. Excellent Master's Thesis Award, Taishi Nakai, "Mathematical Description of the Blockchain Trilemma," Department of Social Informatics, Graduate School of Informatics, Kyoto University, 2024.2
+   <br><br>
 
 ## Other awards and experiences
 

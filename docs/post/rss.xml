@@ -12,14 +12,6 @@
 
 
 
-    
-        
-    
-
-    
-        
-    
-
 
 
 
@@ -44,7 +36,7 @@
             
 
             
-                <link href="http://localhost:1313/post/atom.xml" rel="self" type="application/atom+xml"/>
+                <link href="https://0xnakai.github.io/post/atom.xml" rel="self" type="application/atom+xml"/>
             
         
             
@@ -54,7 +46,7 @@
             
 
             
-                <link href="http://localhost:1313/post/" rel="alternate" type="text/html"/>
+                <link href="https://0xnakai.github.io/post/" rel="alternate" type="text/html"/>
             
         
             
@@ -62,20 +54,20 @@
             
 
             
-                <link href="http://localhost:1313/post/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="https://0xnakai.github.io/post/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
         
             
                 
-                    <link href="http://localhost:1313/ja/post/atom.xml" hreflang="ja" rel="alternate" type="application/atom+xml"/>
+                    <link href="https://0xnakai.github.io/ja/post/atom.xml" hreflang="ja" rel="alternate" type="application/atom+xml"/>
                 
             
                 
             
                 
-                    <link href="http://localhost:1313/ja/post/rss.xml" hreflang="ja" rel="alternate" type="application/rss+xml"/>
+                    <link href="https://0xnakai.github.io/ja/post/rss.xml" hreflang="ja" rel="alternate" type="application/rss+xml"/>
                 
             
         
@@ -89,10 +81,8 @@
         
 
         
-            <lastBuildDate>2024-06-16 09:56:54 +0900 JST</lastBuildDate>
-        
 
-        <link>http://localhost:1313/post/</link>
+        <link>https://0xnakai.github.io/post/</link>
 
         
 
@@ -100,49 +90,6 @@
 
         
 
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-                
-                    
-                
-
-                
-                
-
-                
-
-                
-
-                
-
-                <guid isPermaLink="false">tag:localhost:1313,2024-06-16:/post/hoge/</guid>
-
-                
-                    <link>http://localhost:1313/post/hoge/</link>
-                
-
-                
-                    <pubDate>Sun, 16 Jun 2024 09:56:54 JST</pubDate>
-                
-
-                
-                    <title>Hoge</title>
-                
-            </item>
         
     </channel>
 </rss>

@@ -12,20 +12,6 @@
 
 
 
-    
-        
-    
-
-    
-        
-    
-
-    
-
-    
-        
-    
-
 
 
 
@@ -50,7 +36,7 @@
             
 
             
-                <link href="http://localhost:1313/atom.xml" rel="self" type="application/atom+xml"/>
+                <link href="https://0xnakai.github.io/atom.xml" rel="self" type="application/atom+xml"/>
             
         
             
@@ -60,7 +46,7 @@
             
 
             
-                <link href="http://localhost:1313/" rel="alternate" type="text/html"/>
+                <link href="https://0xnakai.github.io/" rel="alternate" type="text/html"/>
             
         
             
@@ -68,7 +54,7 @@
             
 
             
-                <link href="http://localhost:1313/paige-search.json" rel="alternate" type="application/json"/>
+                <link href="https://0xnakai.github.io/paige-search.json" rel="alternate" type="application/json"/>
             
         
             
@@ -76,24 +62,24 @@
             
 
             
-                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+                <link href="https://0xnakai.github.io/rss.xml" rel="alternate" type="application/rss+xml"/>
             
         
 
         
             
                 
-                    <link href="http://localhost:1313/ja/atom.xml" hreflang="ja" rel="alternate" type="application/atom+xml"/>
+                    <link href="https://0xnakai.github.io/ja/atom.xml" hreflang="ja" rel="alternate" type="application/atom+xml"/>
                 
             
                 
             
                 
-                    <link href="http://localhost:1313/ja/paige-search.json" hreflang="ja" rel="alternate" type="application/json"/>
+                    <link href="https://0xnakai.github.io/ja/paige-search.json" hreflang="ja" rel="alternate" type="application/json"/>
                 
             
                 
-                    <link href="http://localhost:1313/ja/rss.xml" hreflang="ja" rel="alternate" type="application/rss+xml"/>
+                    <link href="https://0xnakai.github.io/ja/rss.xml" hreflang="ja" rel="alternate" type="application/rss+xml"/>
                 
             
         
@@ -107,10 +93,8 @@
         
 
         
-            <lastBuildDate>2024-06-16 14:39:32 +0900 JST</lastBuildDate>
-        
 
-        <link>http://localhost:1313/</link>
+        <link>https://0xnakai.github.io/</link>
 
         
 
@@ -118,139 +102,6 @@
 
         
 
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-                
-
-                
-
-                
-
-                
-                    <description><![CDATA[<h2 id="journal">Journal</h2>
-<ol>
-<li>Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “A Formulation of the Trilemma in Proof of Work Blockchain”, IEEE Access, 2024
-<br><br></li>
-</ol>
-<h2 id="international-conferencerefereed">International conference(refereed)</h2>
-<h3 id="proceedings">Proceedings</h3>
-<ol>
-<li>Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2024, 2024.1</li>
-<li>Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12 (投稿 110 件中 35 件採択)
-<br><br></li>
-</ol>
-<h2 id="international-conferenceno-refereed">International conference(no-refereed)</h2>
-<ol>
-<li>Taishi Nakai, “Towards Mathematical Formulation of the Blockchain Trilemma”, BCK2023，2023.1</li>
-<li>Taishi Nakai, “The Blockchain Trilemma Described by a formula”, To the members of the Ethereum Foundation, including Vitalik Buterin, the founder of Ethereum who proposed the trilemma，2023.8</li>
-</ol>
-<h2 id="conference-in-japanno-refereed">Conference in Japan(no-refereed)</h2>
-<p><a href="/ja/publication/">See in the Japanese version.</a></p>
-<h2 id="invited-talk-in-japan">Invited talk in Japan</h2>
-<p><a href="/ja/publication/">See in the Japanese version.</a></p>
-<h2 id="poster-presentation-in-japan">Poster presentation in Japan</h2>
-<p><a href="/ja/publication/">See in the Japanese version.</a></p>
-<h2 id="awards-and-honors">Awards and Honors</h2>
-<ol>
-<li>Internet Architecture Research Award, Excellent Research Award, Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo, “Blockchain Trilemma Described by a Formula”, Technical Committee on Internet Architecture, IEICE, 2024.5
-<ul>
-<li>4 paper out of 100 papers presented in FY 2023</li>
-</ul>
-</li>
-<li>18th ICT Innovation Excellent Research Award, Taishi Nakai, “Blockchain Trilemma Described by a Formula”, Kyoto University ICT Collaboration Promotion Network, 2024.2
-<ul>
-<li>8 out of 55 presentations</li>
-</ul>
-</li>
-<li>Excellent Master&rsquo;s Thesis Award, Taishi Nakai, &ldquo;Mathematical Description of the Blockchain Trilemma,&rdquo; Department of Social Informatics, Graduate School of Informatics, Kyoto University, 2024.2</li>
-</ol>
-<h2 id="other-awards-and-experiences">Other awards and experiences</h2>
-<ol>
-<li>PSE Summer Contribution Program (Blockchain cryptography workshop hosted by the Ethereum Foundation in Asia. Selected 58 out of 166 candidates), July 2023 - August 2023</li>
-<li>Long-term internship at double jump.tokyo Inc., Technical Support, 2022.11 - 2023.4</li>
-<li>TeamLab Summer Internship, Mobile Application Engineer, Participated in practical work using Flutter, 2022.9</li>
-<li>GMO Group Summer Internship, Blockchain Research and Development Position, Created and presented NFT Fi, 2022.8</li>
-<li>Tokyo web3 Hackathon, Blockchain Game Category, 3rd Place, 1,000 USD, 2022.11</li>
-<li>GEEK Exhibition, Team Development Category, Furocha de Botto (a no-code service for creating LINE Bots), Grand Prize, 2,000USD, 2022.9</li>
-<li>JPYC Japanese Yen Ideathon, Community Award, and JPYC Japanese Yen Hackathon, Second Grant Award, 1,000USD, 2022.4</li>
-</ol>
-]]></description>
-                
-
-                <guid isPermaLink="false">tag:localhost:1313,2024-06-16:/publication/</guid>
-
-                
-                    <link>http://localhost:1313/publication/</link>
-                
-
-                
-                    <pubDate>Sun, 16 Jun 2024 14:39:32 JST</pubDate>
-                
-
-                
-                    <title>Publication</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-
-                
-
-                
-                    
-                
-
-                
-                
-
-                
-
-                
-
-                
-
-                <guid isPermaLink="false">tag:localhost:1313,2024-06-16:/post/hoge/</guid>
-
-                
-                    <link>http://localhost:1313/post/hoge/</link>
-                
-
-                
-                    <pubDate>Sun, 16 Jun 2024 09:56:54 JST</pubDate>
-                
-
-                
-                    <title>Hoge</title>
-                
-            </item>
         
     </channel>
 </rss>
