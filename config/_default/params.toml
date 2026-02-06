@@ -1,0 +1,18 @@
+profilePicture = "images/profile.svg"
+mainSections = []
+favicon = "favicons/"
+reversepagetitle = true
+disableThemeSwitcher = true
+customCss = ["css/custom.css"]
+googleFonts = ["Kosugi+Maru"]
+contentratio = 0.7
+
+[[socialIcons]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/0xnakai"
+
+[[socialIcons]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:distributed.nakai@gmail.com"

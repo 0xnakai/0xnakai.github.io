@@ -1,0 +1,29 @@
+[[main]]
+name = "ホーム"
+identifier = "home"
+weight = 100
+url = "/ja/"
+
+[[main]]
+name = "自己紹介"
+identifier = "about"
+weight = 200
+url = "/ja/aboutme/"
+
+[[main]]
+name = "論文等"
+identifier = "publications"
+weight = 400
+url = "/ja/publications/"
+
+[[main]]
+name = "受賞等"
+identifier = "awards"
+weight = 500
+url = "/ja/awards/"
+
+[[main]]
+name = "連絡先"
+identifier = "contact"
+weight = 600
+url = "/ja/contact/"

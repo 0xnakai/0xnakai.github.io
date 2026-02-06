@@ -1,0 +1,23 @@
+[en]
+title = "Taishi Nakai"
+weight = 1
+LanguageName = "EN"
+languageCode = "en"
+contentDir = "content/english"
+
+[en.params]
+title = "Taishi Nakai"
+author = "Taishi Nakai"
+description = "Ph.D. student at Kyoto University. Research on blockchain and distributed systems."
+
+[ja]
+title = "中井 大志"
+weight = 2
+LanguageName = "日本語"
+languageCode = "ja"
+contentDir = "content/japanese"
+
+[ja.params]
+title = "中井 大志"
+author = "中井 大志"
+description = "京都大学大学院 情報学研究科 博士課程。研究分野はブロックチェーンと分散システム。"

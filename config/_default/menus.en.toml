@@ -1,0 +1,29 @@
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[main]]
+name = "About me"
+identifier = "about"
+weight = 200
+url = "/aboutme/"
+
+[[main]]
+name = "Publications"
+identifier = "publications"
+weight = 400
+url = "/publications/"
+
+[[main]]
+name = "Awards"
+identifier = "awards"
+weight = 500
+url = "/awards/"
+
+[[main]]
+name = "Contact"
+identifier = "contact"
+weight = 600
+url = "/contact/"

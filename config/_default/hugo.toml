@@ -1,0 +1,15 @@
+baseURL = "https://0xnakai.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+title = "Taishi Nakai"
+theme = "anatole"
+
+enableRobotsTXT = true
+summarylength = 20
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true

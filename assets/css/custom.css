@@ -1,0 +1,12 @@
+body {
+  font-family: "Kosugi Maru", sans-serif;
+}
+
+p {
+  line-height: 1.3em;
+}
+
+.post__content ul,
+.post__content ol {
+  line-height: 1.3em;
+}
