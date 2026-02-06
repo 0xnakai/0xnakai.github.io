@@ -30,10 +30,17 @@ jobs:
           hugo-version: "0.154.4"
           extended: true
 
-      - name: Install Dart Sass
-        run: npm install -g sass
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dart Sass (embedded)
+        run: npm install -g sass-embedded
 
       - name: Build
+        env:
+          HUGO_DART_SASS: sass
         run: hugo --minify
 
       - name: Upload artifact
