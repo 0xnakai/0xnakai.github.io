@@ -5,6 +5,7 @@ translationKey: "awards"
 
 ## 研究関連の受賞
 
+- SCIS優秀ポスター賞，中井大志，「あなたの『分散度』計測は本当に正しいですか？ ― PoWブロックチェーン分散度指標の統計的評価フレームワーク ―」，電子情報通信学会SCIS2026，2026.1.
 - 優秀プレゼンテーション賞，中井大志，Nakamoto ConsensusとClassical Consensusの統一的なアルゴリズムに向けて，第21回情報科学ワークショップ，2025.9.
 - 京都大学 総長賞，中井大志，これまでの複数のブロックチェーンの研究成果に対して，京都大学，2025.3.
 - 第 40 回電気通信普及財団賞 テレコムシステム技術学生賞，中井大志，IEEE Access “A Formulation of the Trilemma in Proof of Work Blockchain” に対して，電気通信普及財団，2025.3.

@@ -5,6 +5,7 @@ translationKey: "awards"
 
 ## Research-related Awards
 
+- SCIS Best Poster Award, Taishi Nakai, “Is Your ‘Decentralization’ Measure Really Correct? — A Statistical Evaluation Framework for Decentralization Indices in PoW Blockchains”, Jan. 2026.
 - Outstanding Presentation Award, Taishi Nakai, Toward a Unified Algorithm for Nakamoto Consensus and Classical Consensus, The 21st Information Science Workshop, September 2025.
 - Kyoto University President’s Award, Taishi Nakai, for multiple research achievements in blockchain, Kyoto University, Mar. 2025.
 - The 40th TAF Telecom System Technology Student Award, Taishi Nakai, for “A Formulation of the Trilemma in Proof of Work Blockchain”, Mar. 2025.

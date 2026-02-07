@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中井 大志</title>
+    <link>http://localhost:1313/ja/</link>
+    <description>Recent content on 中井 大志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教育</title>
+      <link>http://localhost:1313/ja/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/teaching/</guid>
+      
+        <description>&lt;p&gt;教育に関する情報は準備中です。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>研究</title>
+      <link>http://localhost:1313/ja/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/research/</guid>
+      
+        <description>&lt;p&gt;ブロックチェーンと分散システムを中心に、合意形成やネットワークの堅牢性に関する研究を行っています。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>自己紹介</title>
+      <link>http://localhost:1313/ja/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/aboutme/</guid>
+      
+        <description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;
+&lt;p&gt;京都大学 大学院情報学研究科 情報学専攻 社会情報学コース 博士課程２回生&lt;/p&gt;
+&lt;h2 id=&#34;研究テーマ&#34;&gt;研究テーマ&lt;/h2&gt;
+&lt;p&gt;ブロックチェーン，分散システム&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>受賞等</title>
+      <link>http://localhost:1313/ja/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/awards/</guid>
+      
+        <description>&lt;h2 id=&#34;研究関連の受賞&#34;&gt;研究関連の受賞&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SCIS優秀ポスター賞，中井大志，「あなたの『分散度』計測は本当に正しいですか？ ― PoWブロックチェーン分散度指標の統計的評価フレームワーク ―」，電子情報通信学会SCIS2026，2026.1.&lt;/li&gt;
+&lt;li&gt;優秀プレゼンテーション賞，中井大志，Nakamoto ConsensusとClassical Consensusの統一的なアルゴリズムに向けて，第21回情報科学ワークショップ，2025.9.&lt;/li&gt;
+&lt;li&gt;京都大学 総長賞，中井大志，これまでの複数のブロックチェーンの研究成果に対して，京都大学，2025.3.&lt;/li&gt;
+&lt;li&gt;第 40 回電気通信普及財団賞 テレコムシステム技術学生賞，中井大志，IEEE Access “A Formulation of the Trilemma in Proof of Work Blockchain” に対して，電気通信普及財団，2025.3.&lt;/li&gt;
+&lt;li&gt;第19回ICTイノベーション優秀研究賞，中井大志，「高い分権性が51%攻撃耐性を必ずしも上げるとは限らない」，京都大学ICT連携推進ネットワーク，2025.2.
+&lt;ul&gt;
+&lt;li&gt;発表33件中6件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SCIS論文賞，「ブロックチェーントリレンマの数理的定式化」，中井大志，電子情報通信学会SCIS2024，2025.1.
+&lt;ul&gt;
+&lt;li&gt;論文228件中8件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Best Session Presentation Award, Taishi Nakai, “The More Halving Advances, the More Rational Double Spending Attack is”, IEEE ICCE 2025, 2025.1.
+&lt;ul&gt;
+&lt;li&gt;セッション5件の発表から1件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;情報セキュリティ研究奨励賞，中井大志，「高い分権性が51%攻撃耐性を高めるとは限らない」，電子情報通信学会ISEC，2024.11.
+&lt;ul&gt;
+&lt;li&gt;全発表66件中，表彰対象である学生の発表のうち8件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CSS2024最優秀論文賞，中井大志，首藤一幸，「高い分権性が51%攻撃耐性を上げるとは限らない」，情報処理学会 コンピュータセキュリティ研究会，2024.10.
+&lt;ul&gt;
+&lt;li&gt;論文269件から 2件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;インターネットアーキテクチャ研究賞 優秀研究賞，中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2024.5.
+&lt;ul&gt;
+&lt;li&gt;2023年度の発表100件中4件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;第18回ICTイノベーション優秀研究賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学ICT連携推進ネットワーク，2024.2.
+&lt;ul&gt;
+&lt;li&gt;発表55件中8件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;優秀修士論文賞，中井大志，「ブロックチェーントリレンマの数理的記述」，京都大学情報学研究科社会情報学専攻，2024.2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grants&#34;&gt;Grants&lt;/h2&gt;
+&lt;h3 id=&#34;as-a-pi&#34;&gt;As a PI&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2024/10 – 2027/03: JST ACT-X（総額 600万円, 2.5 年 / 40k USD for 2.5 years）&lt;/li&gt;
+&lt;li&gt;2024/04 – 2027/03: JST Boost Fellowship（年間 90万円 / 6k USD per year）&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>http://localhost:1313/ja/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/contact/</guid>
+      
+        <description>&lt;p&gt;メール: distributed.nakai [at] gmail.com（[at] を @ に置き換えてください）&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>論文等</title>
+      <link>http://localhost:1313/ja/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ja/publications/</guid>
+      
+        <description>&lt;h2 id=&#34;査読有り論文論文誌&#34;&gt;査読有り論文（論文誌）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “A Formulation of the Trilemma in Proof of Work Blockchain”, IEEE Access, 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;査読有り論文国際会議-proceedings&#34;&gt;査読有り論文（国際会議 Proceedings）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Kazuyuki Shudo. “The More Halving Advances, the More Rational Double Spending Attack is”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2025, 2025.1.&lt;/li&gt;
+&lt;li&gt;Shinnosuke Masuda, Tsuyoshi Hasegawa, Taishi Nakai, Akira Sakurai, Kazuyuki Shudo. “High-Bandwidth Node Selection in Compact Block Relay”, IEEE GreenCom2024, 2024.&lt;/li&gt;
+&lt;li&gt;Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE (Int’l Conf. on Consumer Electronics) 2024, 2024.1.&lt;/li&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, 2023.12.
+&lt;ul&gt;
+&lt;li&gt;投稿110件中35件採択&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nonref-ja&#34;&gt;査読なし論文（筆頭5本，共著1本）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;中井大志，首藤一幸，Nakamoto ConsensusとClassical Consensusの統一的なアルゴリズムに向けて，第21回 情報科学ワークショップ，2025.9.&lt;/li&gt;
+&lt;li&gt;中井大志，首藤一幸，ブロックチェーントリレンマ3要素に着目したNakamoto ConsensusとClassical Consensusの統一的な評価，情報処理学会DICOMO，2025.6.&lt;/li&gt;
+&lt;li&gt;中井大志，首藤一幸，「高い分権性が51%攻撃耐性を高めるとは限らない」，電子情報通信学会ISEC，2024.11.&lt;/li&gt;
+&lt;li&gt;中井大志，首藤一幸，「高い分権性が51%攻撃耐性を上げるとは限らない」，情報処理学会CSS2024，2024.10.&lt;/li&gt;
+&lt;li&gt;中井大志，首藤一幸，「二重支払い攻撃の経済的合理性」，電子情報通信学会IA研究会，2024.3.&lt;/li&gt;
+&lt;li&gt;増田真之介，長谷川毅，中井大志，櫻井晶，首藤一幸，「Compact Block Relayにおける高帯域ノード選択方式」，電子情報通信学会IA研究会，2024.3.&lt;/li&gt;
+&lt;li&gt;中井大志，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的定式化」，電子情報通信学会SCIS2024，2024.1.&lt;/li&gt;
+&lt;li&gt;中井大志，櫻井晶，廣中詩織，首藤一幸，「ブロックチェーントリレンマの数理的記述」，電子情報通信学会インターネットアーキテクチャ研究会，2023.9.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;口頭発表査読なし&#34;&gt;口頭発表（査読なし）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Taishi Nakai, “The Blockchain Trilemma Described by a formula”, トリレンマを提唱したEthereum創設者Vitalik Buterin を含むEthereum財団のメンバーに対して，2023.8.&lt;/li&gt;
+&lt;li&gt;Taishi Nakai, “Towards Mathematical Formulation of the Blockchain Trilemma”, BCK2023，2023.1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;招待講演査読なし&#34;&gt;招待講演（査読なし）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;中井大志，「ブロックチェーンにおけるトリレンマの数理的定式化とそのインパクト」，東京大学 一般財団法人生産技術研究奨励会 分散台帳とその応用技術特別研究会，2024.12.&lt;/li&gt;
+&lt;li&gt;中井大志，「ブロックチェーントリレンマの数理的記述」，第3回なめら会議，2024.1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ポスター発表査読なし&#34;&gt;ポスター発表（査読なし）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;中井大志，「高い分権性が51%攻撃耐性を必ずしも上げるとは限らない」第19回ICTイノベーション，2025.2.&lt;/li&gt;
+&lt;li&gt;中井大志，「ブロックチェーントリレンマの数理的記述」第18回ICTイノベーション，2024.2.&lt;/li&gt;
+&lt;li&gt;中井大志，「あなたの『分散度』計測は本当に正しいですか？ ― PoWブロックチェーン分散度指標の統計的評価フレームワーク ―」，電子情報通信学会SCIS2026，2026.1.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

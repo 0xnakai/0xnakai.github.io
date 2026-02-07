@@ -33,3 +33,4 @@ See the Japanese list of non-refereed papers: [Japanese list](/ja/publications/#
 
 - Taishi Nakai, “High decentralization does not necessarily improve 51% attack resistance”, ICT Innovation 2025, Feb. 2025.
 - Taishi Nakai, “The Blockchain Trilemma Described by a Formula”, ICT Innovation 2024, Feb. 2024.
+- Taishi Nakai, “Is Your ‘Decentralization’ Measure Really Correct? — A Statistical Evaluation Framework for Decentralization Indices in PoW Blockchains”, SCIS 2026, Jan. 2026.

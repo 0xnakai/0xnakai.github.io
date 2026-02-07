@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taishi Nakai</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Taishi Nakai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/aboutme/</guid>
+      
+        <description>&lt;h2 id=&#34;affiliation&#34;&gt;Affiliation&lt;/h2&gt;
+&lt;p&gt;Kyoto University, Graduate School of Informatics, Informatics Major, Social Informatics Course, Ph.D. Program (2nd year)&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;Blockchain, Distributed Systems&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:1313/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/awards/</guid>
+      
+        <description>&lt;h2 id=&#34;research-related-awards&#34;&gt;Research-related Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SCIS Best Poster Award, Taishi Nakai, “Is Your ‘Decentralization’ Measure Really Correct? — A Statistical Evaluation Framework for Decentralization Indices in PoW Blockchains”, Jan. 2026.&lt;/li&gt;
+&lt;li&gt;Outstanding Presentation Award, Taishi Nakai, Toward a Unified Algorithm for Nakamoto Consensus and Classical Consensus, The 21st Information Science Workshop, September 2025.&lt;/li&gt;
+&lt;li&gt;Kyoto University President’s Award, Taishi Nakai, for multiple research achievements in blockchain, Kyoto University, Mar. 2025.&lt;/li&gt;
+&lt;li&gt;The 40th TAF Telecom System Technology Student Award, Taishi Nakai, for “A Formulation of the Trilemma in Proof of Work Blockchain”, Mar. 2025.&lt;/li&gt;
+&lt;li&gt;ICT Innovation 2025 Excellent Research Award, Taishi Nakai, “High decentralization does not necessarily improve 51% attack resistance”, Feb. 2025.
+&lt;ul&gt;
+&lt;li&gt;6 selected out of 33 presentations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SCIS 2024 Paper Award, Taishi Nakai, “Mathematical Formulation of the Blockchain Trilemma”, Jan. 2025.
+&lt;ul&gt;
+&lt;li&gt;8 selected out of 228 papers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Best Session Presentation Award, Taishi Nakai, “The More Halving Advances, the More Rational Double Spending Attack is”, IEEE ICCE 2025, Jan. 2025.
+&lt;ul&gt;
+&lt;li&gt;1 selected out of 5 in session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IEICE ISEC Research Encouragement Award, Taishi Nakai, “High decentralization does not necessarily improve 51% attack resistance”, Nov. 2024.
+&lt;ul&gt;
+&lt;li&gt;8 student presentations among 66&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IPSJ CSS 2024 Best Paper Award, Taishi Nakai, “High decentralization does not necessarily improve 51% attack resistance”, Oct. 2024.
+&lt;ul&gt;
+&lt;li&gt;2 selected out of 269&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IEICE Internet Architecture Research Award (Excellent Research Award), Taishi Nakai, “Blockchain Trilemma Described by a Formula”, May 2024.
+&lt;ul&gt;
+&lt;li&gt;4 selected out of 100 in FY2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ICT Innovation 2024 Excellent Research Award, Taishi Nakai, “The Blockchain Trilemma Described by a Formula”, Feb. 2024.
+&lt;ul&gt;
+&lt;li&gt;8 selected out of 55&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Excellent Master’s Thesis Award, Taishi Nakai, “The Blockchain Trilemma Described by a Formula”, Dept. of Social Informatics, Kyoto University, Feb. 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grants&#34;&gt;Grants&lt;/h2&gt;
+&lt;h3 id=&#34;as-a-pi&#34;&gt;As a PI&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2024/10 – 2027/03: JST ACT-X (total 6,000,000 JPY, 2.5 years / 40k USD for 2.5 years)&lt;/li&gt;
+&lt;li&gt;2024/04 – 2027/03: JST Boost Fellowship (900,000 JPY per year / 6k USD per year)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      
+        <description>&lt;p&gt;Email: distributed.nakai [at] gmail.com (replace [at] with @)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/</guid>
+      
+        <description>&lt;h2 id=&#34;journal-articles-peer-reviewed&#34;&gt;Journal Articles (Peer-reviewed)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “A Formulation of the Trilemma in Proof of Work Blockchain”, IEEE Access, 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;refereed-proceedings&#34;&gt;Refereed Proceedings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Kazuyuki Shudo. “The More Halving Advances, the More Rational Double Spending Attack is”, IEEE ICCE 2025, Jan. 2025.&lt;/li&gt;
+&lt;li&gt;Shinnosuke Masuda, Tsuyoshi Hasegawa, Taishi Nakai, Akira Sakurai, Kazuyuki Shudo. “High-Bandwidth Node Selection in Compact Block Relay”, IEEE GreenCom 2024, 2024.&lt;/li&gt;
+&lt;li&gt;Taishi Nakai, Kazuyuki Shudo, “Impacts on Fork Rate of Changes of Block Size and Block Generation Time for Blockchain Scalability”, IEEE ICCE 2024, Jan. 2024.&lt;/li&gt;
+&lt;li&gt;Taishi Nakai, Akira Sakurai, Shiori Hironaka, Kazuyuki Shudo. “Blockchain Trilemma Described by a Formula”, IEEE Blockchain 2023, Dec. 2023.
+&lt;ul&gt;
+&lt;li&gt;35 accepted out of 110 submissions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;non-refereed-papers&#34;&gt;Non-refereed Papers&lt;/h2&gt;
+&lt;p&gt;See the Japanese list of non-refereed papers: &lt;a href=&#34;http://localhost:1313/ja/publications/#nonref-ja&#34;&gt;Japanese list&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/</guid>
+      
+        <description>&lt;p&gt;My research centers on blockchain and distributed systems, with an emphasis on consensus and network robustness.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/teaching/</guid>
+      
+        <description>&lt;p&gt;Teaching information will be listed here.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
